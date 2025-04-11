@@ -1,0 +1,30 @@
+Artigo                         |  TPR   |   FPR  |  ACC   |  Ano
+Hoover [1] [2]                 | 0.6751 | 0.0433 | 0.9267 | 2000
+Mendonca [3]                   | 0.6996 | 0.0270 | 0.9440 | 2006
+Staal [4]                      | 0.6970 | 0.0190 | 0.9516 | 2004
+Soares [5]                     | 0.7165 | 0.0252 | 0.9480 | 2006
+Chaudhuri [6]                  | 0.6134 | 0.0245 | 0.9384 | 1989
+Martinez-Perez[7]              | 0.7506 | 0.0431 | 0.9410 | 2007
+Zhang et. al. [8]              | 0.7177 | 0.0247 | 0.9484 | 2010
+Abdallah [9]                   | 0.6145 | 0.0162 | 0.9402 | 2015
+You et. al. [10]               | 0.7260 | 0.0244 | 0.9497 | 2011 
+Marin et. al. [11]             | 0.6944 | 0.0181 | 0.9526 | 2011
+M.M. Fraz et. al. [12]         | 0.7311 | 0.0320 | 0.9442 | 2011
+Kaba et. al. [13]              | 0.6645 | 0.0216 | 0.9450 | 2013
+Kaba et. al. (optic disk) [14] | 0.7887 | 0.0367 | 0.9441 | 2014
+
+
+[1] A. Hoover, “STARE database,” http://www.ces.clemson.edu/∼ahoover/stare/.
+[2] A. Hoover, V. Kouznetsova, and M. Goldbaum, “Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response,” IEEE Transactions on Medical Imaging, vol. 19, no. 3, pp. 203–210, 2000.
+[3] A. M. Mendonc ̧a and A. Campilho, “Segmentation of retinal blood vessels by combining the detection of centerlines and morphological reconstruction,” IEEE Transactions on Medical Imaging, vol. 25, no. 9, pp. 1200–1213, 2006.
+[4] J. Staal, M. D. Abr`amoff, M. Niemeijer, M. A. Viergever, and B. Van Ginneken, “Ridge-based vessel segmentation in color images of the retina,” IEEE Transactions on Medical Imaging, vol. 23, no. 4, pp. 501–509, 2004.
+[5] J. V. B. Soares, J. J. G. Leandro, R. M. Cesar Jr., H. F. Jelinek, and M. J. Cree, “Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification,” IEEE Transactions on Medical Imaging, vol. 25, no. 9, pp. 1214–1222, 2006.
+[6] S. Chaudhuri, S. Chatterjee, N. Katz, M. Nelson, and M. Goldbaum, “Detection of blood vessels in retinal images using two-dimensional matched filters,” IEEE Transactions on Medical Imaging, vol. 8, no. 3, pp. 263–269, 1989.
+[7] M. E. Martinez-Perez, A. D. Hughes, S. A. Thom, A. A. Bharath, and K. H. Parker, “Segmentation of blood vessels from red-free and fluorescein retinal images,” Medical Image Analysis, vol. 11, no. 1, pp. 47–61, 2007.
+[8] B. Zhang, L. Zhang, L. Zhang, and F. Karray, “Retinal vessel extraction by matched filter with first-order derivative of Gaussian,” Computers in Biology and Medicine, vol. 40, pp. 438–445, 2010.
+[9] Ben Abdallah M, Malek J, Azar AT, Montesinos P, Belmabrouk H, Esclarin Monreal J, Krissian K (2015a) Automatic extraction of blood vessels in the retinal vascular tree using multiscale medialness. Int J Biomed Imaging 2015, 16 pages.
+[10] X. You, Q. Peng, Y. Yuan, Y.-m. Cheung, J. Lei, Segmentation of retinal blood vessels using the radial projection and semi-supervised approach, Pattern Recognition 44 (2011) 2314–2324.
+[11] D. Marin, A. Aquino, M.E. Gegundez-Arias, J.M. Bravo, A new supervised method for blood vessel segmentation in retinal images by using gray-level and moment invariants-based features, IEEE Transactions on Medical Imaging 30 (2011) 146–158.
+[12] M.M. Fraz, S.A. Barman, P. Remagnino, A. Hoppe, A. Basit, B. Uyyanonvara, A.R. Rudnicka, C.G. Owen, An approach to localize the retinal blood vessels using bit planes and centerline detection, Computer Methods and Programs in Biomedicine, http://dx.doi.org/10.1016/j.cmpb.2011.08.009, in press.
+[13] D. Kaba, A. G. Salazar-Gonzalez, Y. Li, X. Liu, and A. Serag, “Segmentation of retinal blood vessels using gaussian mixture models and expectation maximisation,” in Health Information Science. New York, NY, USA: Springer-Verlag, 2013, pp. 105–112.
+[14] A. Salazar-Gonzalez, D. Kaba, Y. Li and X. Liu, "Segmentation of the blood vessels and optic disk in retinal images", IEEE J. Biomed. Health Informat., vol. 18, no. 6, pp. 1874-1886, Nov. 2014.

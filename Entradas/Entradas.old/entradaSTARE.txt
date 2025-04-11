@@ -1,0 +1,21 @@
+20
+STARE/im0001.ppm Arquivos/STARE/im0001.tif
+STARE/im0002.ppm Arquivos/STARE/im0002.tif
+STARE/im0003.ppm Arquivos/STARE/im0003.tif
+STARE/im0004.ppm Arquivos/STARE/im0004.tif
+STARE/im0005.ppm Arquivos/STARE/im0005.tif
+STARE/im0044.ppm Arquivos/STARE/im0044.tif
+STARE/im0077.ppm Arquivos/STARE/im0077.tif
+STARE/im0081.ppm Arquivos/STARE/im0081.tif
+STARE/im0082.ppm Arquivos/STARE/im0082.tif
+STARE/im0139.ppm Arquivos/STARE/im0139.tif
+STARE/im0162.ppm Arquivos/STARE/im0162.tif
+STARE/im0163.ppm Arquivos/STARE/im0163.tif
+STARE/im0235.ppm Arquivos/STARE/im0235.tif
+STARE/im0236.ppm Arquivos/STARE/im0236.tif
+STARE/im0239.ppm Arquivos/STARE/im0239.tif
+STARE/im0240.ppm Arquivos/STARE/im0240.tif
+STARE/im0255.ppm Arquivos/STARE/im0255.tif
+STARE/im0291.ppm Arquivos/STARE/im0291.tif
+STARE/im0319.ppm Arquivos/STARE/im0319.tif
+STARE/im0324.ppm Arquivos/STARE/im0324.tif

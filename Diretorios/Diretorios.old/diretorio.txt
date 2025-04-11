@@ -1,0 +1,133 @@
+1
+40
+Arquivos/01.tif ../Comparacao/Manual1/01_manual1.tif
+Arquivos/02.tif ../Comparacao/Manual1/02_manual1.tif
+Arquivos/03.tif ../Comparacao/Manual1/03_manual1.tif
+Arquivos/04.tif ../Comparacao/Manual1/04_manual1.tif
+Arquivos/05.tif ../Comparacao/Manual1/05_manual1.tif
+Arquivos/06.tif ../Comparacao/Manual1/06_manual1.tif
+Arquivos/07.tif ../Comparacao/Manual1/07_manual1.tif
+Arquivos/08.tif ../Comparacao/Manual1/08_manual1.tif
+Arquivos/09.tif ../Comparacao/Manual1/09_manual1.tif
+Arquivos/10.tif ../Comparacao/Manual1/10_manual1.tif
+Arquivos/11.tif ../Comparacao/Manual1/11_manual1.tif
+Arquivos/12.tif ../Comparacao/Manual1/12_manual1.tif
+Arquivos/13.tif ../Comparacao/Manual1/13_manual1.tif
+Arquivos/14.tif ../Comparacao/Manual1/14_manual1.tif
+Arquivos/15.tif ../Comparacao/Manual1/15_manual1.tif
+Arquivos/16.tif ../Comparacao/Manual1/16_manual1.tif
+Arquivos/17.tif ../Comparacao/Manual1/17_manual1.tif
+Arquivos/18.tif ../Comparacao/Manual1/18_manual1.tif
+Arquivos/19.tif ../Comparacao/Manual1/19_manual1.tif
+Arquivos/20.tif ../Comparacao/Manual1/20_manual1.tif
+Arquivos/21.tif ../Comparacao/Manual1/21_manual1.tif
+Arquivos/22.tif ../Comparacao/Manual1/22_manual1.tif
+Arquivos/23.tif ../Comparacao/Manual1/23_manual1.tif
+Arquivos/24.tif ../Comparacao/Manual1/24_manual1.tif
+Arquivos/25.tif ../Comparacao/Manual1/25_manual1.tif
+Arquivos/26.tif ../Comparacao/Manual1/26_manual1.tif
+Arquivos/27.tif ../Comparacao/Manual1/27_manual1.tif
+Arquivos/28.tif ../Comparacao/Manual1/28_manual1.tif
+Arquivos/29.tif ../Comparacao/Manual1/29_manual1.tif
+Arquivos/30.tif ../Comparacao/Manual1/30_manual1.tif
+Arquivos/31.tif ../Comparacao/Manual1/31_manual1.tif
+Arquivos/32.tif ../Comparacao/Manual1/32_manual1.tif
+Arquivos/33.tif ../Comparacao/Manual1/33_manual1.tif
+Arquivos/34.tif ../Comparacao/Manual1/34_manual1.tif
+Arquivos/35.tif ../Comparacao/Manual1/35_manual1.tif
+Arquivos/36.tif ../Comparacao/Manual1/36_manual1.tif
+Arquivos/37.tif ../Comparacao/Manual1/37_manual1.tif
+Arquivos/38.tif ../Comparacao/Manual1/38_manual1.tif
+Arquivos/39.tif ../Comparacao/Manual1/39_manual1.tif
+Arquivos/40.tif ../Comparacao/Manual1/40_manual1.tif
+
+
+
+Arquivos/01.tif ../Comparacao/Manual1/01_manual1.tif
+Arquivos/02.tif ../Comparacao/Manual1/02_manual1.tif
+Arquivos/03.tif ../Comparacao/Manual1/03_manual1.tif
+Arquivos/04.tif ../Comparacao/Manual1/04_manual1.tif
+Arquivos/05.tif ../Comparacao/Manual1/05_manual1.tif
+Arquivos/06.tif ../Comparacao/Manual1/06_manual1.tif
+Arquivos/07.tif ../Comparacao/Manual1/07_manual1.tif
+Arquivos/08.tif ../Comparacao/Manual1/08_manual1.tif
+Arquivos/09.tif ../Comparacao/Manual1/09_manual1.tif
+Arquivos/10.tif ../Comparacao/Manual1/10_manual1.tif
+Arquivos/11.tif ../Comparacao/Manual1/11_manual1.tif
+Arquivos/12.tif ../Comparacao/Manual1/12_manual1.tif
+Arquivos/13.tif ../Comparacao/Manual1/13_manual1.tif
+Arquivos/14.tif ../Comparacao/Manual1/14_manual1.tif
+Arquivos/15.tif ../Comparacao/Manual1/15_manual1.tif
+Arquivos/16.tif ../Comparacao/Manual1/16_manual1.tif
+Arquivos/17.tif ../Comparacao/Manual1/17_manual1.tif
+Arquivos/18.tif ../Comparacao/Manual1/18_manual1.tif
+Arquivos/19.tif ../Comparacao/Manual1/19_manual1.tif
+Arquivos/20.tif ../Comparacao/Manual1/20_manual1.tif
+Arquivos/21.tif ../Comparacao/Manual1/21_manual1.tif
+Arquivos/22.tif ../Comparacao/Manual1/22_manual1.tif
+Arquivos/23.tif ../Comparacao/Manual1/23_manual1.tif
+Arquivos/24.tif ../Comparacao/Manual1/24_manual1.tif
+Arquivos/25.tif ../Comparacao/Manual1/25_manual1.tif
+Arquivos/26.tif ../Comparacao/Manual1/26_manual1.tif
+Arquivos/27.tif ../Comparacao/Manual1/27_manual1.tif
+Arquivos/28.tif ../Comparacao/Manual1/28_manual1.tif
+Arquivos/29.tif ../Comparacao/Manual1/29_manual1.tif
+Arquivos/30.tif ../Comparacao/Manual1/30_manual1.tif
+Arquivos/31.tif ../Comparacao/Manual1/31_manual1.tif
+Arquivos/32.tif ../Comparacao/Manual1/32_manual1.tif
+Arquivos/33.tif ../Comparacao/Manual1/33_manual1.tif
+Arquivos/34.tif ../Comparacao/Manual1/34_manual1.tif
+Arquivos/35.tif ../Comparacao/Manual1/35_manual1.tif
+Arquivos/36.tif ../Comparacao/Manual1/36_manual1.tif
+Arquivos/37.tif ../Comparacao/Manual1/37_manual1.tif
+Arquivos/38.tif ../Comparacao/Manual1/38_manual1.tif
+Arquivos/39.tif ../Comparacao/Manual1/39_manual1.tif
+Arquivos/40.tif ../Comparacao/Manual1/40_manual1.tif
+
+
+
+
+
+Arquivos/01.tif ../Comparacao/Manual1/01_manual1.tif ../Comparacao/Manual2/01_manual2.tif
+Arquivos/02.tif ../Comparacao/Manual1/02_manual1.tif ../Comparacao/Manual2/02_manual2.tif
+Arquivos/03.tif ../Comparacao/Manual1/03_manual1.tif ../Comparacao/Manual2/03_manual2.tif
+Arquivos/04.tif ../Comparacao/Manual1/04_manual1.tif ../Comparacao/Manual2/04_manual2.tif
+Arquivos/05.tif ../Comparacao/Manual1/05_manual1.tif ../Comparacao/Manual2/05_manual2.tif
+Arquivos/06.tif ../Comparacao/Manual1/06_manual1.tif ../Comparacao/Manual2/06_manual2.tif
+Arquivos/07.tif ../Comparacao/Manual1/07_manual1.tif ../Comparacao/Manual2/07_manual2.tif
+Arquivos/08.tif ../Comparacao/Manual1/08_manual1.tif ../Comparacao/Manual2/08_manual2.tif
+Arquivos/09.tif ../Comparacao/Manual1/09_manual1.tif ../Comparacao/Manual2/09_manual2.tif
+Arquivos/10.tif ../Comparacao/Manual1/10_manual1.tif ../Comparacao/Manual2/10_manual2.tif
+Arquivos/11.tif ../Comparacao/Manual1/11_manual1.tif ../Comparacao/Manual2/11_manual2.tif
+Arquivos/12.tif ../Comparacao/Manual1/12_manual1.tif ../Comparacao/Manual2/12_manual2.tif
+Arquivos/13.tif ../Comparacao/Manual1/13_manual1.tif ../Comparacao/Manual2/13_manual2.tif
+Arquivos/14.tif ../Comparacao/Manual1/14_manual1.tif ../Comparacao/Manual2/14_manual2.tif
+Arquivos/15.tif ../Comparacao/Manual1/15_manual1.tif ../Comparacao/Manual2/15_manual2.tif
+Arquivos/16.tif ../Comparacao/Manual1/16_manual1.tif ../Comparacao/Manual2/16_manual2.tif
+Arquivos/17.tif ../Comparacao/Manual1/17_manual1.tif ../Comparacao/Manual2/17_manual2.tif
+Arquivos/18.tif ../Comparacao/Manual1/18_manual1.tif ../Comparacao/Manual2/18_manual2.tif
+Arquivos/19.tif ../Comparacao/Manual1/19_manual1.tif ../Comparacao/Manual2/19_manual2.tif
+Arquivos/20.tif ../Comparacao/Manual1/20_manual1.tif ../Comparacao/Manual2/20_manual2.tif
+
+
+
+Metodos/Arquivos/01.tif Manual1/01_manual1.tif Manual2/01_manual2.tif
+Metodos/Arquivos/02.tif Manual1/02_manual1.tif Manual2/02_manual2.tif
+Metodos/Arquivos/03.tif Manual1/03_manual1.tif Manual2/03_manual2.tif
+Metodos/Arquivos/04.tif Manual1/04_manual1.tif Manual2/04_manual2.tif
+Metodos/Arquivos/05.tif Manual1/05_manual1.tif Manual2/05_manual2.tif
+Metodos/Arquivos/06.tif Manual1/06_manual1.tif Manual2/06_manual2.tif
+Metodos/Arquivos/07.tif Manual1/07_manual1.tif Manual2/07_manual2.tif
+Metodos/Arquivos/08.tif Manual1/08_manual1.tif Manual2/08_manual2.tif
+Metodos/Arquivos/09.tif Manual1/09_manual1.tif Manual2/09_manual2.tif
+Metodos/Arquivos/10.tif Manual1/10_manual1.tif Manual2/10_manual2.tif
+Metodos/Arquivos/11.tif Manual1/11_manual1.tif Manual2/11_manual2.tif
+Metodos/Arquivos/12.tif Manual1/12_manual1.tif Manual2/12_manual2.tif
+Metodos/Arquivos/13.tif Manual1/13_manual1.tif Manual2/13_manual2.tif
+Metodos/Arquivos/14.tif Manual1/14_manual1.tif Manual2/14_manual2.tif
+Metodos/Arquivos/15.tif Manual1/15_manual1.tif Manual2/15_manual2.tif
+Metodos/Arquivos/16.tif Manual1/16_manual1.tif Manual2/16_manual2.tif
+Metodos/Arquivos/17.tif Manual1/17_manual1.tif Manual2/17_manual2.tif
+Metodos/Arquivos/18.tif Manual1/18_manual1.tif Manual2/18_manual2.tif
+Metodos/Arquivos/19.tif Manual1/19_manual1.tif Manual2/19_manual2.tif
+Metodos/Arquivos/20.tif Manual1/20_manual1.tif Manual2/20_manual2.tif

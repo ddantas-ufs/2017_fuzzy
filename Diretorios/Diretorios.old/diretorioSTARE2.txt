@@ -1,0 +1,22 @@
+1
+20
+Arquivos/STARE/im0001.tif ../Comparacao/STARE/02/im0001.vk.ppm
+Arquivos/STARE/im0002.tif ../Comparacao/STARE/02/im0002.vk.ppm
+Arquivos/STARE/im0003.tif ../Comparacao/STARE/02/im0003.vk.ppm
+Arquivos/STARE/im0004.tif ../Comparacao/STARE/02/im0004.vk.ppm
+Arquivos/STARE/im0005.tif ../Comparacao/STARE/02/im0005.vk.ppm
+Arquivos/STARE/im0044.tif ../Comparacao/STARE/02/im0044.vk.ppm
+Arquivos/STARE/im0077.tif ../Comparacao/STARE/02/im0077.vk.ppm
+Arquivos/STARE/im0081.tif ../Comparacao/STARE/02/im0081.vk.ppm
+Arquivos/STARE/im0082.tif ../Comparacao/STARE/02/im0082.vk.ppm
+Arquivos/STARE/im0139.tif ../Comparacao/STARE/02/im0139.vk.ppm
+Arquivos/STARE/im0162.tif ../Comparacao/STARE/02/im0162.vk.ppm
+Arquivos/STARE/im0163.tif ../Comparacao/STARE/02/im0163.vk.ppm
+Arquivos/STARE/im0235.tif ../Comparacao/STARE/02/im0235.vk.ppm
+Arquivos/STARE/im0236.tif ../Comparacao/STARE/02/im0236.vk.ppm
+Arquivos/STARE/im0239.tif ../Comparacao/STARE/02/im0239.vk.ppm
+Arquivos/STARE/im0240.tif ../Comparacao/STARE/02/im0240.vk.ppm
+Arquivos/STARE/im0255.tif ../Comparacao/STARE/02/im0255.vk.ppm
+Arquivos/STARE/im0291.tif ../Comparacao/STARE/02/im0291.vk.ppm
+Arquivos/STARE/im0319.tif ../Comparacao/STARE/02/im0319.vk.ppm
+Arquivos/STARE/im0324.tif ../Comparacao/STARE/02/im0324.vk.ppm

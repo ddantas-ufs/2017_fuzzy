@@ -1,0 +1,22 @@
+1
+20
+Resultados/STARE_im0001.tif Imagens/STARE/StareResult02/im0001.vk.ppm
+Resultados/STARE_im0002.tif Imagens/STARE/StareResult02/im0002.vk.ppm
+Resultados/STARE_im0003.tif Imagens/STARE/StareResult02/im0003.vk.ppm
+Resultados/STARE_im0004.tif Imagens/STARE/StareResult02/im0004.vk.ppm
+Resultados/STARE_im0005.tif Imagens/STARE/StareResult02/im0005.vk.ppm
+Resultados/STARE_im0044.tif Imagens/STARE/StareResult02/im0044.vk.ppm
+Resultados/STARE_im0077.tif Imagens/STARE/StareResult02/im0077.vk.ppm
+Resultados/STARE_im0081.tif Imagens/STARE/StareResult02/im0081.vk.ppm
+Resultados/STARE_im0082.tif Imagens/STARE/StareResult02/im0082.vk.ppm
+Resultados/STARE_im0139.tif Imagens/STARE/StareResult02/im0139.vk.ppm
+Resultados/STARE_im0162.tif Imagens/STARE/StareResult02/im0162.vk.ppm
+Resultados/STARE_im0163.tif Imagens/STARE/StareResult02/im0163.vk.ppm
+Resultados/STARE_im0235.tif Imagens/STARE/StareResult02/im0235.vk.ppm
+Resultados/STARE_im0236.tif Imagens/STARE/StareResult02/im0236.vk.ppm
+Resultados/STARE_im0239.tif Imagens/STARE/StareResult02/im0239.vk.ppm
+Resultados/STARE_im0240.tif Imagens/STARE/StareResult02/im0240.vk.ppm
+Resultados/STARE_im0255.tif Imagens/STARE/StareResult02/im0255.vk.ppm
+Resultados/STARE_im0291.tif Imagens/STARE/StareResult02/im0291.vk.ppm
+Resultados/STARE_im0319.tif Imagens/STARE/StareResult02/im0319.vk.ppm
+Resultados/STARE_im0324.tif Imagens/STARE/StareResult02/im0324.vk.ppm

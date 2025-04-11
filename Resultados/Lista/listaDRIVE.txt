@@ -1,0 +1,3 @@
+Metodo 6 -> Tamanho 5, Jan: 7x7, Val(x,y): 3x3, BH: 1, TS: 2,  TPR: 25.89%, FPR: 0.15%, ACC: 93.42%
+Metodo 3 -> Tamanho 5, Jan: 3x3, Val(x,y): 1x1, BH: 2, TS: 5,  TPR: 63.14%, FPR: 1.28%, ACC: 95.63%
+Metodo 3 -> Tamanho 5, Jan: 3x3, Val(x,y): 1x1, BH: 2, TS: 5,  TPR: 63.14%, FPR: 1.28%, ACC: 95.63%

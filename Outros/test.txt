@@ -1,0 +1,145 @@
+
+Imagens 01-40
+Method                    TPR    FPR   ACC    Ano
+--------------------------------------------------
+Chaudhuri [***1]          61.68  2.59  92.84  1989
+Niemeijer [**34-46]       68.98  3.04  94.17  2004
+Staal [**25-34]           71.94  2.27  94.42  2004
+Mendonca [**21]           73.44  2.36  94.52  2006
+Soares  [***4]            72.85  2.13  94.66  2006
+Martinez Perez [**45]     72.46  3.45  93.44  2007
+Zhang [***12]             71.20  2.76  93.82  2010
+Miri  [***3]              73.52  2.05  94.58  2011
+Marin  [***13]            70.67  1.99  94.52  2011
+Fraz  [***14]             71.52  2.31  94.30  2012
+Gonzalez [***2]           75.12  3.16  94.12  2014
+Multiscale Medialnes**    58.79  1.66  91.55  2014
+MF-FDOG****               71.20  2.76  93.82  2015
+Optic Disc***             77.18  1.89  96.31  2015
+
+
+
+Imagens 21-40
+Método                    TPR    FPR   ACC    Ano
+--------------------------------------------------
+Junior*                   63.21  4.37  93.18  2006
+
+
+-------------------------------------------------------------------------------------------------------------------
+Lista Metodo
+-------------------------------------------------------------------------------------------------------------------
+Metodo 1 - STANDARD
+Metodo 2 - ALGEBRAIC
+Metodo 3 - BOUNDED
+Metodo 4 - DRASTIC
+Metodo 5 - DUBOIS and PRADE
+Metodo 6 - HAMACHER
+
+
+
+Teste (Metodo 1)          TPR    FPR   ACC
+--------------------------------------------
+   01                     64.02  1.97  95.07
+   02                     71.22  2.49  95.22
+   02.1                   70.67  2.41  95.25@
+   02.2                   71.64  2.56  95.20@
+   03                     68.10  2.26  95.16
+   04                     71.08  2.45  95.25*
+   04.1                   71.08  2.45  95.25@
+   05                     67.35  2.07  95.27*
+   05.1			  63.66  1.82  95.18@
+
+Teste 01: blur (5x5, 4x2),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02: blur (5x5, 0x1),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02.1: blur (5x5, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02.2: blur (5x5, 1x1),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03: blur (5x5, 1x2),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04: blur (7x7, 1x0),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04.1: blur (7x7, 1x1),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 05: blur (7x7, 0x1),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 05.1: blur (7x7, 0x0),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+
+
+Teste (Metodo 2)          TPR    FPR   ACC
+--------------------------------------------
+   01                     71.09  2.12  95.55
+   02			  70.49  2.05  95.56
+   03                     69.76  1.99  95.55*
+   03.1                   69.67  1.98  95.56@
+   03.2                   69.89  2.00  95.56@
+   04                     70.37  2.03  95.57*
+   04.1                   71.10  2.12  95.55@
+   05                     71.44  2.18  95.53
+   06                     65.84  1.58  95.59
+
+
+Teste 01: blur (3x3, 1x0),top-hat: 2, threshold 5.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02: blur (3x3, 2x1),top-hat: 2, threshold 5.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03: blur (3x3, 3x2),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03.1: blur (3x3, 3x3),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03.2: blur (3x3, 2x2),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04: blur (3x3, 3x1),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04.1: blur (3x3, 1x1),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 05: blur (3x3, 0x1),top-hat: 2, threshold 5.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 06: blur (5x5, 0x0),top-hat: 2, threshold 5.0, element: (1.0/(5.0*tam), thresh 1.0
+
+Teste (Metodo 3)          TPR    FPR   ACC
+--------------------------------------------
+   01                     64.20  1.37  95.64*
+   02                     70.66  2.17  95.47
+   03                     70.04  2.07  95.50*
+   04			  71.48  2.34  95.38
+
+
+Teste 01: blur (3x3, 0x0),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02: blur (3x3, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03: blur (3x3, 0x1),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04: blur (7x7, 1x1),top-hat: 2, threshold 3.0, element: (1.0/(5.0*tam), thresh 1.0
+
+Metodo 4 fail
+
+Teste (Metodo 5)          TPR    FPR   ACC
+--------------------------------------------
+   01                     70.10  2.15  95.44*
+   02                     69.38  2.04  95.48*
+
+
+Teste 01: blur (3x3, 0x0),top-hat: 2, threshold 5.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02: blur (3x3, 1x0),top-hat: 2, threshold 5.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+
+
+Teste (Metodo 6)          TPR    FPR   ACC
+--------------------------------------------
+   01                     75.54  3.24  94.92
+   02                     75.48  3.22  94.93
+   03                     74.54  2.99  95.05
+   04		          70.72  2.56  95.12
+   05                     71.38  2.65  95.09
+   06                     71.05  2.61  95.11
+   07                     70.73  2.50  95.18
+   08			  73.94  2.86  95.12*
+   09                     67.49  2.21  95.16
+   10                     63.80  1.97  95.05
+   11			  71.21  2.56  95.16
+   12 			  72.18  2.58  95.23
+   13                     72.92  2.67  95.21
+   14                     69.21  2.25  95.27*
+   15                     66.03  1.96  95.25
+   16                     72.60  2.62  95.23*  
+
+Teste 01: blur (3x3, 2x3),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 02: blur (3x3, 3x3),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 03: blur (3x5, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 04: blur (3x5, 2x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 05: blur (3x5, 0x2),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 06: blur (3x5, 1x2),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 07: blur (3x7, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 08: blur (3x7, 3x1),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 09: blur (3x9, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 10: blur (3x9, 2x2),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 11: blur (5x3, 2x1),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 12: blur (5x5, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 13: blur (7x5, 1x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 14: blur (7x5, 0x1),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
+Teste 15: blur (9x5, 0x0),top-hat: 2, threshold 4.0, element: (1.0/(5.0*tam), thresh 1.0
+Teste 16: blur (9x7, 1x0),top-hat: 2, threshold 4.0, tam: 5, element: (1.0/(5.0*tam), thresh 1.0
